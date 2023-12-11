@@ -32,6 +32,11 @@
 
 ![Catppuccin-Mocha](https://github.com/davi19/Catppuccin-Gitkraken-Theme/assets/9946675/e87d0fd6-c33a-4182-907e-3a5d144d98b8)
 
+## 💝 Thanks to
+
+**Current maintainers**
+
+- [davi19](https://github.com/davi19)
 
 
 &nbsp;
