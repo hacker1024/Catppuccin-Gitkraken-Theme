@@ -1,17 +1,18 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://www.gitkraken.com/">Gtikraken</a>
+	Catppuccin for <a href="https://www.gitkraken.com/">GitKraken</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 
 ## Usage
 
-1. Open the folder home and go to the folder .gitkraken. This folder is hidden.
-2. Copy the file of your favorite theme to folder theme inside of .gitkraken folder
-3. Go in Gitkraken click in preferences
-4. Go in UI Customization and select the theme.
+1. In Linux or Mac: Open the folder home and go to the folder .gitkraken. This folder is hidden.
+   - For Windows users the folder usually located in C:\Users\Username\AppData\Roaming\.gitkraken
+3. Copy the file of your favorite theme to folder theme inside of .gitkraken folder
+4. Go in GitKraken click in preferences
+5. Go in UI Customization and select the theme.
 
 🌻 Latte 
 
