@@ -9,7 +9,7 @@
 ## Usage
 
 1. In Linux or Mac: Open the folder home and go to the folder .gitkraken. This folder is hidden.
-   - For Windows users the folder usually located in C:\Users\Username\AppData\Roaming\.gitkraken
+   - For Windows users the folder usually located in C:\Users\Username\AppData\Roaming\ .gitkraken
 3. Copy the file of your favorite theme to folder theme inside of .gitkraken folder
 4. Go in GitKraken click in preferences
 5. Go in UI Customization and select the theme.
